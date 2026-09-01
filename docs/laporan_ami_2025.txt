@@ -1,0 +1,475 @@
+# LAPORAN AUDIT MUTU INTERNAL (AMI)
+## Sekolah Pascasarjana (SPs) UIKA Bogor — Tahun 2025
+
+---
+
+# 3. HASIL AUDIT MUTU INTERNAL
+
+## 3.1 Temuan AMI Direktur, Wakil Direktur Bidang Akademik Inovasi dan Kemahasiswaan, dan Direktur Bidang Kerjasama Sumberdaya & Dakwah Sekolah Pascasarjana
+
+**Tabel 1. Temuan AMI Direktur dan Wakil Direktur**
+
+| | |
+|---|---|
+| **Nama Bidang/Bagian** | Direktur dan Wakil Direktur Sekolah Pascasarjana |
+| **Tanggal Audit** | 27 Oktober 2025 |
+| **Auditee** | 1. Direktur Pascasarjana<br>2. Wakil Direktur Bidang Akademik, Inovasi, dan Kemahasiswaan<br>3. Wakil Direktur Bidang Sumber Daya, Kerjasama, dan Dakwah<br>4. Kabag Tata Usaha<br>5. Kasubag Akademik<br>6. Kasubag Perpustakaan<br>7. Kasubag Keuangan<br>8. Staf Humas<br>9. Staf Akademik<br>10. Staf Gugus Penjamin Mutu |
+| **Auditor** | 1. Hj. Qurroh Ayuniyyah, S.Ec., M.Ec., Ph.D.<br>2. Dr. Ir. Amir Tengku Ramly, M.Si<br>3. Tika Noor Prastia, S.KM., M.KM<br>4. Angga Prasetia, SE., M.Ak. |
+
+### 1. Ketidaksesuaian
+
+| No | Referensi | Ketidaksesuaian | Kategori Temuan | Nomor Permintaan Tindakan Perbaikan |
+|---|---|---|---|---|
+| 1 | Standar 1.3 | Pascasarjana memiliki VMTS namun belum dilakukan sosialisasi melalui 5 aspek kepada pemangku kepentingan dan pengukuran pemahaman serta tindak lanjut hasil sosialisasi VMTS tidak terdokumentasi sehingga tidak sesuai dengan standar mutu. | Minor | 137/PM.10/KPMA/2025 |
+| 2 | Standar 2.1 | Belum ada wakil direktur bidang akademik, inovasi, dan kemahasiswaan. | Observasi | 138/PM.10/KPMA/2025 |
+| 3 | Standar 2.1 | Ketua Program Studi Magister Teknologi Pendidikan masih PLT. | Observasi | 139/PM.10/KPMA/2025 |
+| 4 | Standar 1.4 | Sosialisasi pasif VMTS belum diupdate baik di Gedung SPs maupun website. | Observasi | 140/PM.10/KPMA/2025 |
+| 5 | — | Roadmap penelitian di level SPs yang ada belum mencakup Prodi MKPI dan belum terupdate (baru tahun 2023). | Minor | 141/PM.10/KPMA/2025 |
+| 6 | — | Belum ada panduan akademik level SPs misalnya tugas akhir non-tesis dan non-disertasi. | Observasi | 142/PM.10/KPMA/2025 |
+| 7 | — | Belum ada regulasi yang membahas tentang dukungan SPs untuk jabatan fungsional dosen maupun penelitian-publikasi. | Minor | 143/PM.10/KPMA/2025 |
+| 8 | Matriks penilaian UPPS LAMDIK 27 | UPPS sudah memiliki fasilitas yang mendukung pemenuhan K3L, namun belum ada sosialisasi/edukasi, pelaksanaan penilaian dan audit K3L sehingga tidak sesuai dengan standar mutu. | Minor | 144/PM.10/KPMA/2025 |
+
+### 2. Nilai Positif
+
+1. VMTS rutin dilakukan dalam kegiatan taaruf tiap tahun
+2. UPPS memiliki rencana kolaborasi antar fakultas untuk program studi sarjana melanjutkan ke Pascasarjana
+3. Implementasi VMTS sudah dilaksanakan
+4. Tanggal 9 November 2025 akan hadir Prof. Assad Zaman (ekonom syariah internasional), kolaborasi dengan fakultas lainnya
+5. Fakultas dengan Program Studi paling banyak kategori Unggul
+6. Pelatihan Bahasa Inggris untuk dosen (setiap selasa) dan tendik (setiap rabu) dalam rangka meningkatkan kapasitas Bahasa Inggris dan menuju World Class University
+7. Pascasarjana memiliki kegiatan untuk meningkatkan kemampuan bahasa asing (Inggris) dengan pembiasaan penggunaan bahasa indonesia dan inggris bergantian setiap minggu
+8. Pembinaan keislaman dosen dan mahasiswa sudah dilakukan secara rutin setiap Sabtu pagi jam 7.00-7.30 WIB
+9. UPPS menyediakan satu staf khusus yang mengurus Jabatan Akademik Dosen (JAD)
+10. DTPS ada yang diundang sebagai visiting lecturer di universitas di malaysia
+11. Sudah ada upaya matching fund luar negeri antara SPs dan UIS sebesar RM5.000 yang akan direalisasikan dalam waktu dekat
+
+### 3. Rekomendasi dan Peluang untuk Perbaikan
+
+| No | Referensi | Rekomendasi dan Peluang untuk Perbaikan | Nomor Permintaan Tindakan Pencegahan |
+|---|---|---|---|
+| 1 | — | Perlu dibuatkan aturan baku untuk kegiatan 1 week english dan English discussion yang dilaksanakan oleh para dosen | 145/PM.10/KPMA/2025 |
+| 2 | Standar 1.4 | Perlu dilakukan evaluasi pemahaman VMTS dari seluruh pihak (stakeholder) | 146/PM.10/KPMA/2025 |
+| 3 | Standar 1.4 | Perlu update VMTS di Gedung Sekolah Pascasarjana | 147/PM.10/KPMA/2025 |
+| 4 | — | Perlu update Roadmap penelitian di level SPs | 148/PM.10/KPMA/2025 |
+| 5 | Standar 1.4 | Pascasarjana melakukan berbagai kegiatan untuk mencapai visi UPPS seperti pembinaan keislaman mahasiswa, dosen, tendik dalam bentuk pengajian rutin dan riset DTPS sudah menghasilkan produk berbasis teknologi (seperti tes kepribadian) sehingga perlu didokumentasikan dan divisualkan dalam website pasca | 149/PM.10/KPMA/2025 |
+| 6 | Standar 2.1 | Pascasarjana memiliki kelengkapan struktur organisasi, terdapat penambahan staf TU yang bertugas dalam JAD DTPS ditetapkan dalam kontrak kerja disertai deskripsi jobdesk, namun belum tercantum dalam dokumen struktur organisasi beserta jobdesk-nya sehingga perlu ditambahkan pada dokumen | 150/PM.10/KPMA/2025 |
+
+---
+
+## 3.2 Temuan AMI Program Studi Doktor Ekonomi Syariah
+
+**Tabel 2. Temuan AMI Program Studi Doktor Ekonomi Syariah**
+
+| | |
+|---|---|
+| **Nama Bidang/Bagian** | Program Studi Doktor Ekonomi Syariah |
+| **Tanggal Audit** | 27 Oktober 2025 |
+| **Auditee** | 1. Hj. Qurroh Ayuniyyah, SE., M.Ec., Ph.D. (Sekprodi)<br>2. Dr. Rudi Hartono (GKM)<br>3. Qori Pertiwi, SE (Staff Prodi) |
+| **Auditor** | 1. Angga Prasetia, SE., M.Ak. |
+
+### 1. Ketidaksesuaian
+
+| No | Referensi | Ketidaksesuaian | Kategori Temuan | Nomor Permintaan Tindakan Perbaikan |
+|---|---|---|---|---|
+| 1 | — | Roadmap penelitian belum ditemukan | Minor | 158/PM.10/KPMA/2025 |
+| 2 | — | Masih ditemukan dosen Prodi lain menjadi Struktural DESy | Observasi | 159/PM.10/KPMA/2025 |
+
+### 2. Nilai Positif
+
+1. Dosen-dosen yang bergelar Doktor dan berJAD Lektor kepala diberikan wadah untuk menunjang JAD GB
+2. Akreditasi sudah menjadi Baik Sekali dalam jangka waktu 2 Tahun
+3. Implementasi kerjasama Internasional sudah ada dan baik
+
+### 3. Rekomendasi dan Peluang untuk Perbaikan
+
+| No | Referensi | Rekomendasi dan Peluang untuk Perbaikan | Nomor Permintaan Tindakan Pencegahan |
+|---|---|---|---|
+| 1 | — | Dibuatkan Payung hukum syarat jurnal scopus lulusan | 160/PM.10/KPMA/2025 |
+
+---
+
+## 3.3 Temuan AMI Program Studi Doktor Pendidikan Agama Islam
+
+**Tabel 3. Temuan AMI Program Studi Doktor Pendidikan Agama Islam**
+
+| | |
+|---|---|
+| **Nama Bidang/Bagian** | Program Studi Doktor Pendidikan Agama Islam |
+| **Tanggal Audit** | 27 Oktober 2025 |
+| **Auditee** | 1. H. Adian Husaini, M.Si., Ph.D (Kaprodi)<br>2. Dr. H. Budi Handrianto, M.Pd.I (Sekprodi)<br>3. Dr. H. Abas Mansur Tamam, Lc., MA. (GKM)<br>4. Muh. Arbiyansyah Nur, S.Si. (Staff Prodi) |
+| **Auditor** | 2. Tika Noor Prastia, S.KM., M.KM |
+
+### 1. Ketidaksesuaian
+
+| No | Referensi | Ketidaksesuaian | Kategori Temuan | Nomor Permintaan Tindakan Perbaikan |
+|---|---|---|---|---|
+| 1 | Standar 5.1, Lamdik 39 | Lulusan PS DPAI memiliki rata-rata masa studi 4,54 tahun sehingga tidak sesuai dengan standar mutu rata-rata masa studi 2,5–3,5 tahun. | Minor | 151/PM.10/KPMA/2025 |
+| 2 | Standar 1.4, Lamdik 1 | PS DPAI memiliki dokumen visi keilmuan yang ditetapkan melalui SK dengan melibatkan stakeholder internal dan pakar, namun tidak ditemukan bukti keterlibatan eksternal (mitra dan pengguna lulusan), sehingga tidak sesuai dengan standar mutu. | Minor | 152/PM.10/KPMA/2025 |
+| 3 | Standar 1.4, Lamdik 2 | PS DPAI melakukan sosialisasi VMTS kepada pemangku kepentingan, namun tidak dilakukan secara periodik tiap tahun (terakhir tahun 2023) dan tidak terdapat bukti pengukuran, analisa, laporan pemahaman VMTS serta tindak lanjut. | Mayor | 153/PM.10/KPMA/2025 |
+| 4 | Standar 7.4, Lamdik 45 | PS DPAI sudah melakukan evaluasi pembelajaran dalam bentuk survey dan edom namun belum dianalisis dan dirumuskan rencana tindak lanjut sehingga tidak sesuai dengan standar mutu. | Minor | 154/PM.10/KPMA/2025 |
+
+### 2. Nilai Positif
+
+1. PS melakukan klinik disertasi dan penulisan jurnal untuk percepatan bimbingan/tugas akhir dilengkapi dengan personil DTPS yang ditugaskan dengan surat tugas
+2. PS memiliki 2 dosen pakar dengan jabfung profesor
+3. Investasi SDM dan sarpras sangat mencukupi untuk pengembangan PS
+4. PS tersertifikasi ISO 21001:2018
+5. PS memiliki pimpinan yang memenuhi good governance dalam kepemimpinan publik sebagai ketua dakwah (Kaprodi DPAI) yang berkontribusi signifikan terhadap umat, bangsa, dan masyarakat
+6. Terdapat buku pengajaran matrikulasi bahasa inggris
+7. PS mendukung layanan mahasiswa terkait akademik, perlindungan mahasiswa dari bullying dan kekerasan dan ramah disabilitas
+
+### 3. Rekomendasi dan Peluang untuk Perbaikan
+
+| No | Referensi | Rekomendasi dan Peluang untuk Perbaikan | Nomor Permintaan Tindakan Pencegahan |
+|---|---|---|---|
+| 1 | Standar 15.1, Lamdik 46 | Terdapat roadmap PkM dan penelitian untuk tahun 2021-2026 namun perlu disesuaikan jika visi keilmuan berganti pada periode ini | 155/PM.10/KPMA/2025 |
+| 2 | Lamdik 11 | Tersedia layanan klinik proposal, workshop scopus, mentoring dll untuk membantu mahasiswa sehingga perlu didokumentasikan dengan baik dan publikasikan dalam website | 156/PM.10/KPMA/2025 |
+| 3 | Standar 13.1, Lamdik 10 | Sudah ada upaya meningkatkan animo mahasiswa namun perlu dioptimalkan menjangkau mitra kerjasama dan pengguna | 157/PM.10/KPMA/2025 |
+
+---
+
+## 3.4 Temuan AMI Program Studi Magister Ekonomi Syariah
+
+**Tabel 4. Temuan AMI Program Studi Magister Ekonomi Syariah**
+
+| | |
+|---|---|
+| **Nama Bidang/Bagian** | Program Studi Magister Ekonomi Syariah |
+| **Tanggal Audit** | 27 Oktober 2025 |
+| **Auditee** | 1. Dr. Ir. Trisiladi Supriyanto, M.Si (Kaprodi)<br>2. Silvia Nurfitri (Tendik) |
+| **Auditor** | 1. Dr. Amir Tengku Ramly |
+
+### 1. Ketidaksesuaian
+
+| No | Referensi | Ketidaksesuaian | Kategori Temuan | Nomor Permintaan Tindakan Perbaikan |
+|---|---|---|---|---|
+| 1 | Standar 5.1, Lamdik 39 | Implementasi Perubahan Visi-Misi di ruangan Prodi MESy belum ada | Observasi | 163/PM.10/KPMA/2025 |
+| 2 | Standar 1.4, Lamdik 1 | Laporan PKM untuk nasional belum ada | Minor | 164/PM.10/KPMA/2025 |
+
+### 2. Nilai Positif
+
+1. Sudah ada PKM Internasional yang melibatkan 1 dosen MESy, dan PKM Nasional melibatkan 1 dosen dan 2 mahasiswa
+2. Sudah ada kolaborasi Internasional dengan UNAIS Makhfiroh Malaysia
+3. Sudah ada pedoman dan output kurikulum berbasis OBE
+4. Mendapatkan hibah penelitian 2 judul proposal (1 dosen)
+5. Peningkatan Publikasi artikel ilmiah terindeks scopus
+6. Peningkatan jumlah mahasiswa dari 11 orang (2024) menjadi 13 orang (2025)
+
+### 3. Rekomendasi dan Peluang untuk Perbaikan
+
+| No | Referensi | Rekomendasi dan Peluang untuk Perbaikan | Nomor Permintaan Tindakan Pencegahan |
+|---|---|---|---|
+| 1 | — | Perlu melakukan sosialisasi visi-misi baru MESy ke dosen dan mahasiswa | 165/PM.10/KPMA/2025 |
+| 2 | — | Perlu dilakukan coaching untuk dosen MESy terkait pengajuan Proposal Hibah Bima 2025 | 166/PM.10/KPMA/2025 |
+| 3 | — | Menyiapkan Prodi MESy kelas Internasional | 167/PM.10/KPMA/2025 |
+| 4 | — | Pembenahan Pengelolaan Jurnal KASABA oleh Prodi MESy | 168/PM.10/KPMA/2025 |
+
+---
+
+## 3.5 Temuan AMI Program Studi Magister Pendidikan Agama Islam
+
+**Tabel 5. Temuan AMI Program Studi Magister Pendidikan Agama Islam**
+
+| | |
+|---|---|
+| **Nama Bidang/Bagian** | Program Studi Magister Pendidikan Agama Islam |
+| **Tanggal Audit** | 27 Oktober 2025 |
+| **Auditee** | 1. Dr. H. Abas Mansur Tamam, Lc., MA. (Kaprodi)<br>2. Dr. Santi Lisnawati, M.Si., M.Pd.I (Sekprodi)<br>3. Dr. Hj. Nesia Andriana, M.Pd. (GKM)<br>4. Yulia Latifah, S.Pd. (Staff Prodi) |
+| **Auditor** | 1. Angga Prasetia, SE., M.Ak. |
+
+### 1. Ketidaksesuaian
+
+| No | Referensi | Ketidaksesuaian | Kategori Temuan | Nomor Permintaan Tindakan Perbaikan |
+|---|---|---|---|---|
+| 1 | — | Dosen struktural masih dari luar dosen Homebase | Minor | 161/PM.10/KPMA/2025 |
+
+### 2. Nilai Positif
+
+1. Pemilihan Dosen pengajar sudah sesuai dengan keilmuan
+2. Publikasi lulusan ditingkatkan menjadi min SINTA 3
+3. Adanya Himpunan mahasiswa MPAI dalam rangka menjadi wadah penunjang catur darma Prodi MPAI
+4. Roadmap sudah ada dan sudah semakin baik
+
+### 3. Rekomendasi dan Peluang untuk Perbaikan
+
+| No | Referensi | Rekomendasi dan Peluang untuk Perbaikan | Nomor Permintaan Tindakan Pencegahan |
+|---|---|---|---|
+| 1 | — | Buatkan Payung Hukum atau aturan dalam syarat publikasi mahasiswa | 162/PM.10/KPMA/2025 |
+
+---
+
+## 3.6 Temuan AMI Program Studi Magister Manajemen
+
+**Tabel 6. Temuan AMI Program Studi Magister Manajemen**
+
+| | |
+|---|---|
+| **Nama Bidang/Bagian** | Program Studi Magister Manajemen |
+| **Tanggal Audit** | 27 Oktober 2025 |
+| **Auditee** | 1. Prof. Dr. Hj. Indupurnahayu, Dra., MM.Ak.CA (Kaprodi)<br>2. Dr. Bramastyo (Sekprodi)<br>3. Dr. Popy Pasaribu (GKM)<br>4. Sulaeman (Tendik) |
+| **Auditor** | 1. Tika Noor Prastia, S.KM., M.KM |
+
+### 1. Ketidaksesuaian
+
+| No | Referensi | Ketidaksesuaian | Kategori Temuan | Nomor Permintaan Tindakan Perbaikan |
+|---|---|---|---|---|
+| 1 | — | Pembuatan RPS belum semua berbasis OBE karena menunggu sosialisasi CPL dari Pascasarjana | Minor | 169/PM.10/KPMA/2025 |
+| 2 | — | Monev baru dilaksanakan dalam bentuk uji petik, karena hibah internal dari pasca belum ada kepastian | Minor | 170/PM.10/KPMA/2025 |
+
+### 2. Nilai Positif
+
+1. Program studi sudah unggul
+2. Sudah ada program mobility student internasional
+3. Dosen penerima hibah Bima
+4. Memiliki 2 Asosiasi: (1) Ikatan dosen Akuntan, dan (2) Forum Manajemen Indonesia
+5. Sudah memiliki Road map PkM untuk Prodi
+
+### 3. Rekomendasi dan Peluang untuk Perbaikan
+
+| No | Referensi | Rekomendasi dan Peluang untuk Perbaikan | Nomor Permintaan Tindakan Pencegahan |
+|---|---|---|---|
+| 1 | — | Perlu Tracer study untuk memotret keberhasilan lulusan dibawah 6 bulan lulus dan diatas 6 bulan | 171/PM.10/KPMA/2025 |
+| 2 | — | PKM selain diarahkan ke UMKM/usaha kecil juga ke perusahaan multi nasional guna membangun network dan pengalaman dosen dalam knowledge terkait manajemen di era VUCA dan digital | 172/PM.10/KPMA/2025 |
+| 3 | — | Perlu diinisiasi program MM reguler, Executive dan Program Fasttrack | 173/PM.10/KPMA/2025 |
+| 4 | — | Perlu Tracer study untuk memotret keberhasilan lulusan dibawah 6 bulan lulus dan diatas 6 bulan | 174/PM.10/KPMA/2025 |
+| 5 | — | Prodi MM perlu membuat diagram Alir penyelesaian studi mahasiswa dari pengusulan proposal sd ujian sidang yg disesuaikan dengan peraturan Lamemba | 175/PM.10/KPMA/2025 |
+
+---
+
+## 3.7 Temuan AMI Program Studi Magister Teknologi Pendidikan
+
+**Tabel 7. Temuan AMI Program Studi Magister Teknologi Pendidikan**
+
+| | |
+|---|---|
+| **Nama Bidang/Bagian** | Program Studi Magister Teknologi Pendidikan |
+| **Tanggal Audit** | 27 Oktober 2025 |
+| **Auditee** | 1. H. Hendri Tanjung, Ph.D (Plt. Kaprodi)<br>2. Dr. Rudi Hartono, M.Pd. (Sek. Prodi)<br>3. Dr. Syarifuddin, M.Pd (GKM)<br>4. Muhammad Asrul Anwar, S.T (Staff Prodi) |
+| **Auditor** | 1. Tika Noor Prastia, S.KM., M.KM |
+
+### 1. Ketidaksesuaian
+
+| No | Referensi | Ketidaksesuaian | Kategori Temuan | Nomor Permintaan Tindakan Perbaikan |
+|---|---|---|---|---|
+| 1 | Standar 1.4, Lamdik 2 | Program Studi telah melaksanakan sosialisasi visi keilmuan melalui forum tatap muka dan unggahan di media sosial. Namun, dokumen sosialisasi tidak mencantumkan waktu pelaksanaan dan daftar hadir peserta. Selain itu, tidak terdapat bukti hasil pengukuran tingkat pemahaman sivitas akademika maupun tindak lanjut hasil evaluasi sehingga tidak sesuai dengan standar mutu | Minor | 176/PM.10/KPMA/2025 |
+| 2 | Standar 5.1, Lamdik 10 | Proses seleksi mahasiswa belum sepenuhnya memenuhi standar mutu yang ditetapkan terutama untuk kemampuan bahasa asing TOEFL ≥ 450 atau tes bahasa Inggris setara (bukan menjadi persyaratan seleksi, namun kelulusan) | Minor | 177/PM.10/KPMA/2025 |
+| 3 | Standar 1.3, Lamdik 8 | Program Studi telah melakukan evaluasi terhadap Rencana Operasional (Renop). Namun, pada tabel hasil evaluasi belum dicantumkan keterangan pencapaian, seperti status tercapai atau tidak tercapai untuk setiap indikator kinerja | Minor | 178/PM.10/KPMA/2025 |
+
+### 2. Nilai Positif
+
+1. Sudah ada upaya untuk meningkatkan jabfung dosen guru besar, 2 diajukan bulan Oktober 2025
+2. Produk riset and development mengembangkan produk pembelajaran dalam bentuk game mini craft, buku dan HKI
+3. Mengikuti conference internasional setiap tahun dan benchmarking ke PT luar negeri
+4. Guru besar 2 orang, diajukan 2 lagi untuk Guru besar pada bulan Oktober 2025
+5. DTPS produktif menghasilkan karya ilmiah: pada tahun 2025 terdapat 15 publikasi artikel baik pada jurnal nasional terakreditasi dan internasional bereputasi, ikut serta dalam conference internasional terkait modelling role of big data
+6. Memiliki roadmap penelitian dan PkM yang digunakan DTPS dalam kegiatan riset dan PkM
+
+### 3. Rekomendasi dan Peluang untuk Perbaikan
+
+| No | Referensi | Rekomendasi dan Peluang untuk Perbaikan | Nomor Permintaan Tindakan Pencegahan |
+|---|---|---|---|
+| 1 | Standar 1.4, Lamdik 1 | Ada keterlibatan stakeholder namun daftar hadir perumusan VMTS namun keterangan sebagai pakar dan mitra tidak tertulis, karena ditulis sebagai alumni. Perlu disesuaikan | 179/PM.10/KPMA/2025 |
+| 2 | Standar 5.1, Lamdik 10 | Program Studi telah melaksanakan penerimaan mahasiswa setiap tahun, namun penetapan daya tampung belum ditetapkan secara konsisten dan terdokumentasi secara formal | 180/PM.10/KPMA/2025 |
+
+---
+
+## 3.8 Temuan AMI Program Studi Magister Komunikasi dan Penyiaran Islam
+
+**Tabel 8. Temuan AMI Program Studi Magister Komunikasi Penyiaran Islam**
+
+| | |
+|---|---|
+| **Nama Bidang/Bagian** | Program Studi Magister Komunikasi Penyiaran Islam |
+| **Tanggal Audit** | 27 Oktober 2025 |
+| **Auditee** | 1. Dewi Anggrayni, M.Si., Ph.D. (Ketua Program Studi MKPI)<br>2. Dr. Hasan Basri Tanjung, M.A. (Sekretaris Program Studi MKPI)<br>3. Indra Martian Permana, M.Ag., Ph.D. (GKM Program Studi MKPI)<br>4. Nur Anisah Rahmahnda, S.Sos (Staf Prodi)<br>5. Sheni Ratna Amelia, S.Sos (Staf Laboratorium Studio) |
+| **Auditor** | 2. Dr. Salati Asmahasanah |
+
+### 1. Ketidaksesuaian
+
+| No | Referensi | Ketidaksesuaian | Kategori Temuan | Nomor Permintaan Tindakan Perbaikan |
+|---|---|---|---|---|
+| 1 | 9.1 Dosen Tetap | Dosen tetap MKPI hanya tersedia satu orang yang berlatar belakang Pendidikan linier dengan ilmu komunikasi (dari 5 dosen tetap 1 linier komunikasi dan 4 bidang dakwah, ilmu peradaban dan Pendidikan islam) | Minor | 181/PM.10/KPMA/2025 |
+| 2 | 13.6 Kepuasan Mahasiswa | Konfirmasi ke GKM sudah dilakukan survey namun belum tersedia laporan kepuasan mahasiswa prodi MKPI | Minor | 182/PM.10/KPMA/2025 |
+
+### 2. Nilai Positif
+
+1. Kegiatan diluar kampus:
+   - PKM: UNAIS Malaysia, UNiSZA Malaysia, Irdak Singapore, Haur Jaya Kota Bogor
+   - Kolokium Internasional UKM Malaysia
+   - Seminar Influencer bersama Mahasiswa MKPI
+   - Presentasi Paper Internasional UiTM
+   - ICMI Rapat Kerja sekaligus menjadi Narasumber
+   - Festival Film ICMI menjadi Juri
+2. Kerjasama MKPI: Kolokium UKM; UNiSZA PKM Batik; Pondok UNAIS PKM
+3. Prestasi: Juara Paper Kolokium UKM (2 orang); Juara Lulusan Terbaik MKPI (1 Orang); Juara Wisudawan Terbaik (1 Orang); Presentasi Paper Kolokium UKM (1 Orang); Presentasi Paper KONSEP 2025 UiTM (1 orang); Juara Pendongeng Nasional (1 orang); Mahasiswa membuat Buku (1 Orang)
+
+### 3. Rekomendasi dan Peluang untuk Perbaikan
+
+| No | Referensi | Rekomendasi dan Peluang untuk Perbaikan | Nomor Permintaan Tindakan Pencegahan |
+|---|---|---|---|
+| 1 | — | Visi keilmuan dan tujuan tahun 2025 sudah tersedia namun belum dilaksanakan survey pemahaman visi dan tujuan kepada dosen, tendik, dan mahasiswa | 183/PM.10/KPMA/2025 |
+| 2 | — | SK Pengesahan kurikulum 2025 | 184/PM.10/KPMA/2025 |
+
+---
+
+## 3.9 Temuan AMI Unit Laboratorium
+
+**Tabel 9. Temuan AMI Unit Laboratorium**
+
+| | |
+|---|---|
+| **Nama Bidang/Bagian** | Unit Laboratorium |
+| **Tanggal Audit** | 27 Oktober 2025 |
+| **Auditee** | Bambang Karyadi, ST., M.Pd. |
+| **Auditor** | Qurroh Ayuniyyah, SE, M.Ec., Ph.D. |
+
+### 1. Ketidaksesuaian
+
+| No | Referensi | Ketidaksesuaian | Kategori Temuan | Nomor Permintaan Tindakan Perbaikan |
+|---|---|---|---|---|
+| 1 | Laporan Kerja Tahunan Laboratorium Komputer SPs | Terdapat program kerja yang belum terlaksana yaitu pelatihan pengelolaan website untuk Tenaga Kependidikan karena fokus pada akreditasi, ketidaksesuaian dengan Program Kerja 2024/2025 | Minor | 185/PM.10/KPMA/2025 |
+| 2 | Laporan Kerja Tahunan Laboratorium Komputer SPs | Keterlibatan mahasiswa dalam memanfaatkan laboratorium belum optimal, terutama setelah tidak ada mata kuliah yang menggunakan Laboratorium secara langsung | Observasi | 186/PM.10/KPMA/2025 |
+
+### 2. Nilai Positif
+
+1. Sudah ada pengembangan Channel YouTube LabSPsUIKA dan Channel Telegram sebagai media pembelajaran
+2. Survei kepuasan pengguna dari segi fasilitas dan pelayanan mayoritas Sangat Memuaskan dan Memuaskan
+3. Pengalihan fokus pada dukungan penelitian tesis dan disertasi
+4. Sudah ada SK Kepala Laboratorium Komputer dari Direktur Sekolah Pascasarjana nomor 190.a/KEP/Laboran/SPs-UIKA/2022 masa bakti tahun 2022 hingga 2026
+5. Sudah ada media sosial yang mempromosikan kegiatan Unit Laboratorium, meski harus terus dipromosikan
+
+### 3. Rekomendasi dan Peluang untuk Perbaikan
+
+| No | Referensi | Rekomendasi dan Peluang untuk Perbaikan | Nomor Permintaan Tindakan Pencegahan |
+|---|---|---|---|
+| 1 | Laporan Kerja Tahunan Laboratorium Komputer SPs | Perlu dilaksanakan pelatihan pengelolaan website untuk Tenaga Kependidikan | 187/PM.10/KPMA/2025 |
+| 2 | Laporan Kerja Tahunan Laboratorium Komputer SPs | Penambahan fungsi laboratorium untuk membantu penelitian tesis dan disertasi mahasiswa | 188/PM.10/KPMA/2025 |
+| 3 | Laporan Kerja Tahunan Laboratorium Komputer SPs | Perbaikan sistem server harus terus dilakukan | 189/PM.10/KPMA/2025 |
+
+---
+
+## 3.10 Temuan AMI UPT Jurnal
+
+**Tabel 10. Temuan AMI Unit UPT Jurnal**
+
+| | |
+|---|---|
+| **Nama Bidang/Bagian** | Unit UPT Jurnal |
+| **Tanggal Audit** | 27 Oktober 2025 |
+| **Auditee** | Dr. Amir Tengku Ramly, M.Si |
+| **Auditor** | Dr. Salati Asmahasanah |
+
+### 1. Ketidaksesuaian
+
+| No | Referensi | Ketidaksesuaian | Kategori Temuan | Nomor Permintaan Tindakan Perbaikan |
+|---|---|---|---|---|
+| 1 | — | Belum tersedia jurnal internasional terakreditasi yang berlangganan | Minor | 190/PM.10/KPMA/2025 |
+
+### 2. Nilai Positif
+
+1. Sudah berlangganan turnitin
+2. Memiliki web UPT jurnal yang terintegrasi dg e-journal UIKA
+3. Memiliki Program kerja
+
+### 3. Rekomendasi dan Peluang untuk Perbaikan
+
+| No | Referensi | Rekomendasi dan Peluang untuk Perbaikan | Nomor Permintaan Tindakan Pencegahan |
+|---|---|---|---|
+| 1 | — | Nama Jurnal Pengabdian sudah ada namun belum terdaftar | 191/PM.10/KPMA/2025 |
+
+---
+
+## 3.11 Temuan AMI Perpustakaan
+
+**Tabel 11. Temuan AMI Unit Perpustakaan**
+
+| | |
+|---|---|
+| **Nama Bidang/Bagian** | Unit Perpustakaan |
+| **Tanggal Audit** | 27 Oktober 2025 |
+| **Auditee** | 1. Ali Maksum, S.Pd.I (Kasubag Perpustakaan)<br>2. Dr. Muchamad Ridho Hidayat, S.Hum., M.E.I. (Pustakawan)<br>3. Ria Ariandini, S.Ak. (Staff Perpus)<br>4. Khalifatuzzahrah, A.J, S.Pd. (Staff Perpus) |
+| **Auditor** | Angga Prasetia, SE., M.Ak. |
+
+### 1. Ketidaksesuaian
+
+| No | Referensi | Ketidaksesuaian | Kategori Temuan | Nomor Permintaan Tindakan Perbaikan |
+|---|---|---|---|---|
+| 1 | — | Perlu berkorespondensi dengan pimpinan Sekolah Pascasarjana maupun Universitas terkait dengan Jurnal dan karya ilmiah berbasis digital | Minor | 192/PM.10/KPMA/2025 |
+| 2 | — | Jurnal dan karya ilmiah berbasis digital masih ada yang belum terdigitalisasi | Minor | 193/PM.10/KPMA/2025 |
+| 3 | — | Belum adanya SK Perpustakaan Pasca terupdate tapi ada kasubag Perpustakaan | Mayor | 194/PM.10/KPMA/2025 |
+
+### 2. Nilai Positif
+
+1. Sudah dibangun repository
+2. Perpustakaan dipasang murottal 24 Jam
+3. Website https://studycorner.my.id sudah diupdate
+4. Sudah menerapkan pelayanan konsultasi secara online
+
+### 3. Rekomendasi dan Peluang untuk Perbaikan
+
+| No | Referensi | Rekomendasi dan Peluang untuk Perbaikan | Nomor Permintaan Tindakan Pencegahan |
+|---|---|---|---|
+| 1 | — | Perlunya Tupoksi Kasubag Perpustakaan, agar dapat berjalan dengan baik | 195/PM.10/KPMA/2025 |
+| 2 | — | Perlunya Tupoksi Pustakawan, agar dapat berjalan dengan baik | 196/PM.10/KPMA/2025 |
+
+---
+
+## 3.12 Temuan AMI Gugus Penjaminan Mutu
+
+**Tabel 12. Temuan AMI Gugus Penjaminan Mutu Pascasarjana**
+
+| | |
+|---|---|
+| **Nama Bidang/Bagian** | Gugus Penjaminan Mutu Pascasarjana |
+| **Tanggal Audit** | 27 Oktober 2025 |
+| **Auditee** | 1. Dr. Widyasari, M.Pd (Ketua GPM)<br>2. Muthiatul Milah, SM. (Staff GPM)<br>3. Muhammad Rizqi Syahwaludin, SM. (Staff GPM) |
+| **Auditor** | Tika Noor Prastia, S.KM., M.KM |
+
+### 1. Ketidaksesuaian
+
+| No | Referensi | Ketidaksesuaian | Kategori Temuan | Nomor Permintaan Tindakan Perbaikan |
+|---|---|---|---|---|
+| 1 | Standar 2.6, Lamdik 58 | Seluruh temuan AMI telah dinyatakan ditindaklanjuti, namun belum terdapat dokumen formal Rencana Tindak Lanjut (RTL) yang memuat rincian kegiatan perbaikan, penanggung jawab, waktu pelaksanaan, dan bukti fisik tindak lanjut serta bukti tindak lanjut yang dilakukan sehingga tidak sesuai dengan standar mutu | Minor | 197/PM.10/KPMA/2025 |
+| 2 | Standar 5.1, Lamdik 36 | UPPS telah memiliki dokumen tracer study, baik berupa instrumen survei, rekap hasil, maupun laporan analisis, kecuali Program Studi Doktor Pendidikan Agama Islam (DPAI) yang belum memiliki dokumen tracer study (tidak ada responden yang mengisi) dan hasil pelacakan alumni sehingga tidak sesuai standar mutu | Minor | 198/PM.10/KPMA/2025 |
+
+### 2. Nilai Positif
+
+1. Terdapat staff gugus penjamin mutu yang mumpuni dalam mendukung implementasi penjaminan mutu di Pascasarjana
+2. SK struktur gugus penjaminan mutu lengkap dengan dokumen SPMI
+
+### 3. Rekomendasi dan Peluang untuk Perbaikan
+
+| No | Referensi | Rekomendasi dan Peluang untuk Perbaikan | Nomor Permintaan Tindakan Pencegahan |
+|---|---|---|---|
+| 1 | Standar 2.6, Lamdik 56 | Gugus Kendali Mutu (GKM) dan staf mutu di lingkungan program studi telah melaksanakan sebagian fungsi penjaminan mutu, seperti pengumpulan data dan pendampingan audit akademik. Namun, uraian tugas dan tanggung jawab (tupoksi) masing-masing posisi dapat ditambahkan penjelasan secara rinci dan diselaraskan dengan ketentuan dalam Statuta dan dokumen struktur organisasi universitas | 199/PM.10/KPMA/2025 |
+
+---
+
+## 3.13 Temuan AMI Kepala Pusat Studi Islamisasi Sains
+
+**Tabel 13. Temuan AMI Pusat Studi Sains Sekolah Pascasarjana**
+
+| | |
+|---|---|
+| **Nama Bidang/Bagian** | Pusat Studi Sains Sekolah Pascasarjana |
+| **Tanggal Audit** | 27 Oktober 2025 |
+| **Auditee** | Dr. Wido Supraha, M.Si. |
+| **Auditor** | Angga Prasetia, SE., M.Ak |
+
+### 1. Ketidaksesuaian
+
+| No | Referensi | Ketidaksesuaian | Kategori Temuan | Nomor Permintaan Tindakan Perbaikan |
+|---|---|---|---|---|
+| 1 | — | Laporan Kegiatan Pusat Studi Sains belum tersedia | Mayor | 367/PM.10/KPMA/2025 |
+
+### 2. Nilai Positif
+
+1. Sudah memiliki buku panduan Islamisasi sains
+2. Telah melaksanakan sekolah Islamisasi sains
+3. Memiliki Channel Youtube untuk siar lebih luas
+
+### 3. Rekomendasi dan Peluang untuk Perbaikan
+
+| No | Referensi | Rekomendasi dan Peluang untuk Perbaikan | Nomor Permintaan Tindakan Pencegahan |
+|---|---|---|---|
+| 1 | — | Perlunya dokumentasi yang baik dalam setiap kegiatan | 368/PM.10/KPMA/2025 |
