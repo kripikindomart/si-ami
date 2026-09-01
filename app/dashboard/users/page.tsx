@@ -3,6 +3,7 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { useApi } from "@/hooks/use-api";
+import { CreateUserDialog } from "./create-user-dialog";
 import type { User } from "@/lib/db/schema";
 
 /**
@@ -45,6 +46,7 @@ export default function UsersPage() {
   const [search, setSearch] = useState("");
   const [roleFilter, setRoleFilter] = useState("");
   const [statusFilter, setStatusFilter] = useState("");
+  const [showCreateDialog, setShowCreateDialog] = useState(false);
 
   // Fetch users
   const fetchUsers = async () => {
@@ -72,7 +74,7 @@ export default function UsersPage() {
           <p className="text-gray-600">Kelola pengguna sistem</p>
         </div>
         <button
-          onClick={() => router.push("/dashboard/users/create")}
+          onClick={() => setShowCreateDialog(true)}
           className="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700"
         >
           Tambah User
@@ -282,6 +284,15 @@ export default function UsersPage() {
           <p className="text-red-800">{error.message}</p>
         </div>
       )}
+
+      {/* Create User Dialog */}
+      <CreateUserDialog
+        open={showCreateDialog}
+        onClose={() => setShowCreateDialog(false)}
+        onSuccess={() => {
+          fetchUsers();
+        }}
+      />
     </div>
   );
 }
