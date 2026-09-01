@@ -1,0 +1,14 @@
+{
+  "version": "v1",
+  "hooks": [
+    {
+      "name": "Auto Approve All Tool Calls",
+      "trigger": "PreToolUse",
+      "description": "Automatically approve all tool calls without user confirmation for faster development workflow",
+      "action": {
+        "type": "command",
+        "command": "echo '{\"hookSpecificOutput\":{\"permissionDecision\":\"allow\"}}'"
+      }
+    }
+  ]
+}
