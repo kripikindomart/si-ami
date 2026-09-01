@@ -1,8 +1,8 @@
 import { BaseApiService } from "./base.service";
 import { db } from "@/lib/db/client";
-import { supabase } from "@/lib/db/supabase-client";
 import { users, userUnit, roles } from "@/lib/db/schema";
 import { eq, and, or, ilike, desc, asc, SQL, sql } from "drizzle-orm";
+import bcrypt from "bcryptjs";
 import type { User, NewUser, UserUnit } from "@/lib/db/schema";
 import type { ApiResponse } from "@/types/api.types";
 import type {
@@ -16,10 +16,10 @@ import type {
 } from "@/lib/validations";
 
 /**
- * UserService - Singleton Pattern
+ * UserService - Singleton Pattern (PostgreSQL Local - NO Supabase Auth)
  * 
  * Handles:
- * - User CRUD with Supabase Auth integration
+ * - User CRUD dengan bcrypt password hashing
  * - Unit assignment untuk PIC role
  * - Status toggle dengan last admin protection
  * - Password management
@@ -102,6 +102,7 @@ class UserService extends BaseApiService<User> {
           id: users.id,
           nama: users.nama,
           email: users.email,
+          passwordHash: users.passwordHash,
           roleId: users.roleId,
           status: users.status,
           createdAt: users.createdAt,
@@ -171,80 +172,44 @@ class UserService extends BaseApiService<User> {
   }
 
   /**
-   * Create user dengan Supabase Auth + optional unit assignment
+   * Create user dengan password hash + optional unit assignment
    */
-  async createWithAuth(
+  async create(
     payload: CreateUserWithUnitsInput
   ): Promise<ApiResponse<User>> {
     try {
       const { nama, email, password, roleId, status, unitKerjaIds } = payload;
 
-      // 1. Create auth user di Supabase
-      const { data: authUser, error: authError } = await supabase.auth.admin.createUser({
-        email,
-        password,
-        email_confirm: true, // Auto confirm
-        user_metadata: {
+      // Hash password
+      const passwordHash = await bcrypt.hash(password, 10);
+
+      // Create user di database
+      const [user] = await db
+        .insert(users)
+        .values({
           nama,
-        },
-      });
+          email: email.toLowerCase(),
+          passwordHash,
+          roleId,
+          status: status || "aktif",
+        })
+        .returning();
 
-      if (authError) {
-        return {
-          success: false,
-          error: {
-            code: "AUTH_ERROR",
-            message: authError.message,
-            fields: {
-              email: [authError.message.includes("already") ? "Email sudah terdaftar" : authError.message],
-            },
-          },
-        };
+      // Assign units jika roleId = pic_unit dan ada unitKerjaIds
+      if (unitKerjaIds && unitKerjaIds.length > 0) {
+        await db.insert(userUnit).values(
+          unitKerjaIds.map((unitKerjaId) => ({
+            userId: user.id,
+            unitKerjaId,
+          }))
+        );
       }
 
-      if (!authUser.user) {
-        return {
-          success: false,
-          error: {
-            code: "AUTH_ERROR",
-            message: "Gagal membuat user auth",
-          },
-        };
-      }
-
-      try {
-        // 2. Create user di database
-        const [user] = await db
-          .insert(users)
-          .values({
-            id: authUser.user.id,
-            nama,
-            email: email.toLowerCase(),
-            roleId,
-            status: status || "aktif",
-          })
-          .returning();
-
-        // 3. Assign units jika roleId = pic_unit dan ada unitKerjaIds
-        if (unitKerjaIds && unitKerjaIds.length > 0) {
-          await db.insert(userUnit).values(
-            unitKerjaIds.map((unitKerjaId) => ({
-              userId: user.id,
-              unitKerjaId,
-            }))
-          );
-        }
-
-        return {
-          success: true,
-          data: user,
-          message: "User berhasil dibuat",
-        };
-      } catch (dbError) {
-        // Rollback: Delete auth user jika DB insert gagal
-        await supabase.auth.admin.deleteUser(authUser.user.id);
-        return this.handleError(dbError);
-      }
+      return {
+        success: true,
+        data: user,
+        message: "User berhasil dibuat",
+      };
     } catch (error) {
       return this.handleError(error);
     }
@@ -301,13 +266,6 @@ class UserService extends BaseApiService<User> {
         })
         .where(eq(users.id, id))
         .returning();
-
-      // Update Supabase metadata jika nama berubah
-      if (nama) {
-        await supabase.auth.admin.updateUserById(id, {
-          user_metadata: { nama },
-        });
-      }
 
       return {
         success: true,
@@ -409,7 +367,7 @@ class UserService extends BaseApiService<User> {
     try {
       const { oldPassword, newPassword } = payload;
 
-      // Verify old password
+      // Get user
       const user = await db.query.users.findFirst({
         where: eq(users.id, userId),
       });
@@ -424,13 +382,10 @@ class UserService extends BaseApiService<User> {
         };
       }
 
-      // Verify with Supabase
-      const { error: signInError } = await supabase.auth.signInWithPassword({
-        email: user.email,
-        password: oldPassword,
-      });
+      // Verify old password
+      const isValid = await bcrypt.compare(oldPassword, user.passwordHash);
 
-      if (signInError) {
+      if (!isValid) {
         return {
           success: false,
           error: {
@@ -443,20 +398,17 @@ class UserService extends BaseApiService<User> {
         };
       }
 
-      // Update password
-      const { error: updateError } = await supabase.auth.admin.updateUserById(userId, {
-        password: newPassword,
-      });
+      // Hash new password
+      const newPasswordHash = await bcrypt.hash(newPassword, 10);
 
-      if (updateError) {
-        return {
-          success: false,
-          error: {
-            code: "AUTH_ERROR",
-            message: updateError.message,
-          },
-        };
-      }
+      // Update password
+      await db
+        .update(users)
+        .set({
+          passwordHash: newPasswordHash,
+          updatedAt: new Date(),
+        })
+        .where(eq(users.id, userId));
 
       return {
         success: true,
@@ -486,11 +438,6 @@ class UserService extends BaseApiService<User> {
         })
         .where(eq(users.id, userId))
         .returning();
-
-      // Update Supabase metadata
-      await supabase.auth.admin.updateUserById(userId, {
-        user_metadata: { nama },
-      });
 
       return {
         success: true,
@@ -528,7 +475,7 @@ class UserService extends BaseApiService<User> {
   }
 
   /**
-   * Delete user (hard delete - cascade auth)
+   * Delete user (hard delete)
    */
   async delete(id: string): Promise<ApiResponse<null>> {
     try {
@@ -544,20 +491,7 @@ class UserService extends BaseApiService<User> {
         };
       }
 
-      // Delete dari auth (cascade ke DB)
-      const { error } = await supabase.auth.admin.deleteUser(id);
-
-      if (error) {
-        return {
-          success: false,
-          error: {
-            code: "AUTH_ERROR",
-            message: error.message,
-          },
-        };
-      }
-
-      // Delete dari database (jika belum cascade)
+      // Delete user (cascade ke user_unit)
       await db.delete(users).where(eq(users.id, id));
 
       return {

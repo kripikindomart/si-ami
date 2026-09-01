@@ -8,6 +8,13 @@
       "when": 1788261093150,
       "tag": "0000_narrow_beast",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1788268172071,
+      "tag": "0001_melted_senator_kelly",
+      "breakpoints": true
     }
   ]
 }

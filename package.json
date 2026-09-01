@@ -23,10 +23,13 @@
   },
   "homepage": "https://github.com/kripikindomart/si-ami#readme",
   "dependencies": {
+    "@supabase/auth-helpers-nextjs": "^0.15.0",
     "@supabase/supabase-js": "^2.112.4",
+    "bcryptjs": "^3.0.3",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "drizzle-orm": "^0.45.2",
+    "jose": "^6.2.10",
     "lucide-react": "^1.38.0",
     "next": "^16.3.4",
     "postgres": "^3.4.9",
@@ -37,6 +40,7 @@
     "zod": "^4.5.4"
   },
   "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
     "@types/node": "^26.4.0",
     "@types/react": "^19.2.18",
     "autoprefixer": "^10.5.4",

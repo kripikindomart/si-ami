@@ -21,9 +21,10 @@ export const roles = pgTable("roles", {
 
 // 2. Users (extends auth.users dari Supabase/custom auth)
 export const users = pgTable("users", {
-  id: uuid("id").primaryKey(), // references auth.users(id)
+  id: uuid("id").primaryKey().defaultRandom(), // Auto-generated UUID
   nama: varchar("nama", { length: 255 }).notNull(),
   email: varchar("email", { length: 255 }).unique().notNull(),
+  passwordHash: varchar("password_hash", { length: 255 }).notNull(),
   roleId: uuid("role_id").references(() => roles.id).notNull(),
   status: statusEnum("status").default("aktif").notNull(),
   createdAt: timestamp("created_at", { withTimezone: true }).defaultNow().notNull(),
