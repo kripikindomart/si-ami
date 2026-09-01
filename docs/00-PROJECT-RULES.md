@@ -49,11 +49,14 @@ docs/
 - User interaction flow
 
 ### 5. Issue (GitHub)
+- **WAJIB** gunakan format template lengkap di `docs/04-github-issues-template.md`
+- **WAJIB** isi semua section: Tujuan, Deskripsi, Acceptance Criteria, Technical Details, Referensi, Estimasi
+- **WAJIB** tambahkan label yang sesuai (modul, priority, type, status, size)
+- Walaupun di dokumentasi module sudah ada breakdown task, **TETAP WAJIB** buat issue dengan format template lengkap
 - Bahasa Indonesia yang jelas (untuk junior programmer & AI murah)
 - **TIDAK BOLEH ADA EMOJI**
-- Gunakan label yang tersedia
-- Format template issue standar
 - Setiap issue = 1 task spesifik
+- **WAJIB** close issue dengan comment detail pengerjaan (lihat template close issue)
 
 ### 6. API Endpoint
 - REST API spec lengkap
