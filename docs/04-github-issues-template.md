@@ -400,5 +400,109 @@ Berdasarkan roadmap, estimasi total issues:
 
 ---
 
-**Version**: 1.0
+## ATURAN WAJIB untuk AI/Developer
+
+### 1. MEMBUAT ISSUE
+- **WAJIB** menggunakan template format lengkap di atas
+- **WAJIB** isi semua section: Tujuan, Deskripsi, Acceptance Criteria, Technical Details, Referensi, Estimasi
+- **WAJIB** tambahkan label yang sesuai (modul, priority, type, status, size)
+- Walaupun di dokumentasi module sudah ada breakdown task, **TETAP WAJIB** buat issue dengan format template lengkap
+- **JANGAN** buat issue setengah-setengah atau skip section
+
+### 2. MENGERJAKAN ISSUE
+- **WAJIB** update label `status:in-progress` sebelum mulai coding
+- Kerjakan sesuai Acceptance Criteria yang ada
+- Jika ada perubahan scope, update issue description dan criteria
+
+### 3. MENUTUP ISSUE
+- **WAJIB** close issue dengan comment detail pengerjaan
+- Format comment close issue:
+
+```markdown
+## ✅ DONE
+
+### Dikerjakan:
+- [x] Item 1 yang dikerjakan dengan detail
+- [x] Item 2 yang dikerjakan dengan detail
+- [x] Item 3 yang dikerjakan dengan detail
+
+### File yang Dibuat/Diubah:
+- `path/to/file1.ts` - [deskripsi perubahan]
+- `path/to/file2.tsx` - [deskripsi perubahan]
+- `path/to/file3.sql` - [deskripsi perubahan]
+
+### Testing:
+- [x] Unit test passed
+- [x] Manual test: [scenario yang ditest]
+- [x] No console errors
+
+### Acceptance Criteria Status:
+- [x] Kriteria 1 ✅
+- [x] Kriteria 2 ✅
+- [x] Kriteria 3 ✅
+
+### Notes:
+[Catatan tambahan jika ada, perubahan dari plan awal, trade-offs, dll]
+
+### Commit:
+Commit hash: `abc1234`
+Branch: `master`
+```
+
+- **JANGAN** close issue dengan comment singkat atau tanpa detail
+- **JANGAN** langsung close tanpa menjelaskan apa yang dikerjakan
+
+### 4. TRACKING PROGRESS
+- Setiap selesai 1 issue, update progress di dokumentasi roadmap
+- Check dependencies: apakah issue ini unblock issue lain?
+- Update label `status:blocked` → `status:ready` untuk issue yang ter-unblock
+
+---
+
+## Contoh BAIK vs BURUK
+
+### ❌ BURUK - Membuat Issue:
+```markdown
+# User Management
+
+buat user management
+```
+
+### ✅ BAIK - Membuat Issue:
+```markdown
+# [User Management] Create Database Schema dan RLS Policies
+
+## Tujuan
+Create database tables untuk user management dengan RLS policies
+
+## Deskripsi
+1. Create tables: users, roles, permissions, user_unit
+2. Add relations dan foreign keys
+3. Create indexes untuk performa
+4. Setup RLS policies untuk setiap table
+...
+[Lengkap sesuai template]
+```
+
+### ❌ BURUK - Close Issue:
+```markdown
+done
+```
+
+### ✅ BAIK - Close Issue:
+```markdown
+## ✅ DONE
+
+### Dikerjakan:
+- [x] Create users table dengan UUID primary key
+- [x] Create roles table dengan unique constraint pada nama
+- [x] Create permissions table dengan composite unique (role_id, modul)
+...
+[Lengkap dengan detail]
+```
+
+---
+
+**Version**: 1.1
 **Last Updated**: 2026-09-01
+**Changes**: Add mandatory rules untuk AI/Developer
